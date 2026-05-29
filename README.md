@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Animesh 👋
 
-<!--
-**senseiani/senseiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at RGPV
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- C++
+- Data Structures & Algorithms
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals
+- Improve problem-solving skills
+- Build projects
+- Explore software development
+
+## Connect With Me
+- LinkedIn: https://linkedin.com/in/animesh-mishra-cse
