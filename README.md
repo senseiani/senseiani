@@ -1,5 +1,9 @@
 # 💫 About Me:
- # Hi, I'm Animesh 👋<br><br>🎓 CSE Student at RGPV<br><br>💻 Currently Learning<br>- C++<br>- Data Structures & Algorithms<br>- Git & GitHub<br><br>🚀 Goals<br>- Improve problem-solving skills<br>- Build projects<br>- Explore software development<br><br>## Connect With Me<br>- LinkedIn: https://linkedin.com/in/animesh-mishra-cse
+ # Hi, I'm Animesh 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</p>
+ 👋<br><br>🎓 CSE Student at RGPV<br><br>💻 Currently Learning<br>- C++<br>- Data Structures & Algorithms<br>- Git & GitHub<br><br>🚀 Goals<br>- Improve problem-solving skills<br>- Build projects<br>- Explore software development<br><br>## Connect With Me<br>- LinkedIn: https://linkedin.com/in/animesh-mishra-cse
 
 
 ## 🌐 Socials:
