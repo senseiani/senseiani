@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Animesh</h1>
+<h1 align="center">Hi!, I'm Animesh Mishra👾</h1>
 
 <h3 align="center">
   CSE Student | C++ | DSA | Problem Solving
@@ -85,7 +85,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/animesh-mishra-cse/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
