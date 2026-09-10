@@ -1,25 +1,103 @@
-# 💫 About Me:
- # Hi, I'm Animesh 
- <p align="center">
+<!-- ======================= HEADER ======================= -->
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 </p>
- 👋<br><br>🎓 CSE Student at RGPV<br><br>💻 Currently Learning<br>- C++<br>- Data Structures & Algorithms<br>- Git & GitHub<br><br>🚀 Goals<br>- Improve problem-solving skills<br>- Build projects<br>- Explore software development<br><br>## Connect With Me<br>- LinkedIn: https://linkedin.com/in/animesh-mishra-cse
+
+<h1 align="center">Hi 👋, I'm Animesh</h1>
+
+<h3 align="center">
+  CSE Student | C++ | DSA | Problem Solving
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=senseiani&label=Profile%20Views&color=0e75b6&style=flat" alt="senseiani" />
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/animesh-mishra-cse/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/animesh_h3218) 
+<!-- ======================= ABOUT ======================= -->
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=senseiani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=senseiani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=senseiani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 👨‍💻 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=senseiani&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🎓 Computer Science Engineering student
+- 💻 Currently learning **C++ & Data Structures and Algorithms**
+- 🧠 Improving my **problem-solving and logical thinking**
+- 🔨 Building projects while learning
+- 🚀 Exploring the world of Software Development
 
----
-[![](https://komarev.com/ghpvc/?username=senseiani&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ======================= CURRENTLY ======================= -->
+
+## 🌱 Currently Learning
+
+- C++
+- Data Structures & Algorithms
+- Git & GitHub
+- Problem Solving
+- Software Development
+
+
+<!-- ======================= TECH STACK ======================= -->
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,git,github,html,css,js,vscode" />
+
+</p>
+
+
+<!-- ======================= GITHUB STATS ======================= -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=senseiani&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senseiani&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+
+<!-- ======================= STREAK ======================= -->
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=senseiani&theme=tokyonight&hide_border=true" />
+
+</p>
+
+
+<!-- ======================= CONTRIBUTIONS ======================= -->
+
+## 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+<!-- ======================= CONNECT ======================= -->
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/senseiani">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+
+<!-- ======================= FOOTER ======================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer"/>
+</p>
